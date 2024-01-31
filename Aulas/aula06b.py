@@ -1,0 +1,6 @@
+n = input('Digite um valor: ')
+print(f'É um numero? {n.isnumeric()}')
+print(f'É uma letra? {n.isalpha()}')
+print(f'É AlphaNumerico? {n.isalnum()}')
+print(f'Letras maiusculas? {n.isupper()}')
+print(f'Letras minusculas? {n.islower()}')

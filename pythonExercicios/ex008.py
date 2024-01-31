@@ -1,0 +1,6 @@
+n1 = int(input('Informe o metro: '))
+print(f'{n1} Metros, corresponde a {n1  / 1000}Km')
+print(f'{n1} Metros, corresponde a {n1  / 100}Hm')
+print(f'{n1} Metros, corresponde a {n1  / 10}Dam')
+print(f'{n1} Metros, corresponde a {n1  * 100}cm')
+print(f'{n1} Metros, corresponde a {n1  * 1000}mm')
